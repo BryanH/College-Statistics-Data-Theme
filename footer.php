@@ -1,4 +1,4 @@
-  <?php roots_footer_before(); ?>
+<?php roots_footer_before(); ?>
 <div id="subfooter_container">
 	<div id="subfooter">
 		<?php dynamic_sidebar('roots-footer'); ?>

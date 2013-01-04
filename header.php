@@ -200,17 +200,3 @@
 	</div>
 
   <?php roots_header_after(); ?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-

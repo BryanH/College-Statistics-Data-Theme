@@ -35,6 +35,3 @@ jQuery(document).ready(function() {
 }
 ?>
 <?php get_footer(); ?>
-
-
-  
